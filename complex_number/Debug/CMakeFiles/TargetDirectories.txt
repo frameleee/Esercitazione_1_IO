@@ -1,0 +1,3 @@
+/home/appuser/Data/esercitazioni/Esercitazione_2_OOP/complex number/Debug/CMakeFiles/complex_number.dir
+/home/appuser/Data/esercitazioni/Esercitazione_2_OOP/complex number/Debug/CMakeFiles/edit_cache.dir
+/home/appuser/Data/esercitazioni/Esercitazione_2_OOP/complex number/Debug/CMakeFiles/rebuild_cache.dir
